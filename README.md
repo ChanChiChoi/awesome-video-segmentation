@@ -1,5 +1,6 @@
 # awesome-video-segmentation
----
+
+collecting the papers about "video segmentation"
 
 ### 2010
 
