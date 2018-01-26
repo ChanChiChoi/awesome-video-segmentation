@@ -6,6 +6,9 @@ collecting the papers about "video segmentation"
 
 ### 2011
 
+- Ayvaci A, Soatto S. [Detachable object detection: Segmentation and depth ordering from short-baseline video](https://arxiv.org/abs/1109.4683)[J]. IEEE transactions on pattern analysis and machine intelligence, 2012, 34(10): 1942-1951.
+- Lawto J, Gauvain J L, Lamel L, et al. [A scalable video search engine based on audio content indexing and topic segmentation](https://arxiv.org/abs/1111.6265)[J]. arXiv preprint arXiv:1111.6265, 2011.
+
 ### 2012
 
 - Cheng H T, Ahuja N. [Exploiting nonlocal spatiotemporal structure for video segmentation](https://pdfs.semanticscholar.org/6450/1d4de102f2479c53f2fa4f1df616352f2e02.pdf)[C]//Computer Vision and Pattern Recognition (CVPR), 2012 IEEE Conference on. IEEE, 2012: 741-748.
@@ -21,15 +24,46 @@ collecting the papers about "video segmentation"
 - Jain A, Chatterjee S, Vidal R. [Coarse-to-fine semantic video segmentation using supervoxel trees](http://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Jain_Coarse-to-Fine_Semantic_Video_2013_ICCV_paper.pdf)[C]//Proceedings of the IEEE International Conference on Computer Vision. 2013: 1865-1872.
 - Galasso F, Shankar Nagaraja N, Jimenez Cardenas T, et al. [A unified video segmentation benchmark: Annotation, metrics and analysis](http://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Galasso_A_Unified_Video_2013_ICCV_paper.pdf)[C]//Proceedings of the IEEE International Conference on Computer Vision. 2013: 3527-3534.
 - Palou G, Salembier P. [Hierarchical video representation with trajectory binary partition tree](http://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Palou_Hierarchical_Video_Representation_2013_CVPR_paper.pdf)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2013: 2099-2106.
+- Couprie C, Farabet C, LeCun Y, et al. [Causal graph-based video segmentation](https://arxiv.org/abs/1301.1671)[C]//Image Processing (ICIP), 2013 20th IEEE International Conference on. IEEE, 2013: 4249-4253.
+- Şener O, Ugur K, Alatan A A. [Efficient MRF energy propagation for video segmentation via bilateral filters](https://arxiv.org/abs/1301.5356)[J]. IEEE Transactions on Multimedia, 2014, 16(5): 1292-1302.
+- Friedman N, Russell S. [Image segmentation in video sequences: A probabilistic approach](https://arxiv.org/abs/1302.1539)[C]//Proceedings of the Thirteenth conference on Uncertainty in artificial intelligence. Morgan Kaufmann Publishers Inc., 1997: 175-181.
+- Dushnik D, Schclar A, Averbuch A. [Video segmentation via diffusion bases](https://arxiv.org/abs/1305.0218)[J]. arXiv preprint arXiv:1305.0218, 2013.
+- Spina T V, Tepper M, Esler A, et al. [Video human segmentation using fuzzy object models and its application to body pose estimation of toddlers for behavior studies](https://arxiv.org/abs/1305.6918)[J]. arXiv preprint arXiv:1305.6918, 2013.
+- Chakroun M, Wali A, Alimi A M. [MAS for video objects segmentation and tracking based on active contours and SURF descriptor(https://arxiv.org/abs/1308.0315)[J]. arXiv preprint arXiv:1308.0315, 2013.
+- Xu C, Doell R F, Hanson S J, et al. [A study of actor and action semantic retention in video supervoxel segmentation](https://arxiv.org/abs/1311.3318)[J]. International Journal of Semantic Computing, 2013, 7(04): 353-375.
 
 ### 2014
 
 - Galasso F, Keuper M, Brox T, et al. [Spectral graph reduction for efficient image and streaming video segmentation](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Galasso_Spectral_Graph_Reduction_2014_CVPR_paper.pdf)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2014: 49-56.
 
+- Tripathi S, Hwang Y, Belongie S, et al. [Improving streaming video segmentation with early and mid-level visual processing](https://arxiv.org/abs/1402.3557)[C]//Applications of Computer Vision (WACV), 2014 IEEE Winter Conference on. IEEE, 2014: 477-484.
+- Mahdi W, Ardebilian M, Chen L. [Automatic video scene segmentation based on spatial-temporal clues and rhythm](https://arxiv.org/abs/1412.4470)[J]. Networking and Information Systems Journal, 2000, 3(1): 27-52.
+- Fragkiadaki K, Arbelaez P, Felsen P, et al. [Learning to segment moving objects in videos](https://arxiv.org/abs/1412.6504)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2015: 4083-4090.
+
 ### 2015
+
+- Yin X, Chen J, Kramer D M. [Joint Multi-Leaf Segmentation, Alignment, and Tracking from Fluorescence Plant Videos](https://arxiv.org/abs/1505.00353)[J]. IEEE transactions on pattern analysis and machine intelligence, 2017.
+- Yi S, Pavlovic V. [Multi-cue structure preserving MRF for unconstrained video segmentation](https://arxiv.org/abs/1506.09124)[C]//Proceedings of the IEEE International Conference on Computer Vision. 2015: 3262-3270.
+- Tripathi S, Belongie S, Nguyen T. [Beyond Semantic Image Segmentation: Exploring Efficient Inference in Video](https://arxiv.org/abs/1507.01578)[J]. arXiv preprint arXiv:1507.01578, 2015.
+- Kuehne H, Gall J, Serre T. [Cooking in the kitchen: Recognizing and Segmenting Human Activities in Videos](https://arxiv.org/abs/1508.06073)[J]. arXiv preprint arXiv:1508.06073, 2015.
+- Kuehne H, Gall J, Serre T. [An end-to-end generative framework for video segmentation and recognition](https://arxiv.org/abs/1509.01947)[C]//Applications of Computer Vision (WACV), 2016 IEEE Winter Conference on. IEEE, 2016: 1-8.
+- Tripathi S, Belongie S, Hwang Y, et al. [Semantic video segmentation: Exploring inference efficiency](https://arxiv.org/abs/1509.02441)[C]//SoC Design Conference (ISOCC), 2015 International. IEEE, 2015: 157-158.
+- Narayana M, Hanson A, Learned-Miller E. [Coherent motion segmentation in moving camera videos using optical flow orientations](https://arxiv.org/abs/1511.01619)[C]//Proceedings of the IEEE International Conference on Computer Vision. 2013: 1577-1584.
 
 ### 2016
 
+- Palazzo S, Spampinato C, Giordano D. [Gamifying Video Object Segmentation](https://arxiv.org/abs/1601.00825)[J]. arXiv preprint arXiv:1601.00825, 2016.
+-  Mirsharif Q, Sadani S, Shah S, et al. [A Semi-Automated Method for Object Segmentation in Infant’s Egocentric Videos to Study Object Perception](https://arxiv.org/abs/1602.02522)[C]//Proceedings of International Conference on Computer Vision and Image Processing. Springer, Singapore, 2017: 59-69.
+- Wang J, Yeung S, Wang J, et al. [Segmentation Rectification for Video Cutout via One-Class Structured Learning](https://arxiv.org/abs/1602.04906)[J]. arXiv preprint arXiv:1602.04906, 2016.
+- Yao J, Nielsen F. [SSSC-AM: A unified framework for video co-segmentation by structured sparse subspace clustering with appearance and motion features](https://arxiv.org/abs/1603.04139)[C]//Image Processing (ICIP), 2016 IEEE International Conference on. IEEE, 2016: 3957-3961.
+- Bideau P, Learned-Miller E. [It’s moving! A probabilistic model for causal motion segmentation in moving camera videos](https://arxiv.org/abs/1604.00136)[C]//European Conference on Computer Vision. Springer International Publishing, 2016: 433-449.
+- Khoreva A, Benenson R, Galasso F, et al. [Improved image boundaries for better video segmentation](https://arxiv.org/abs/1605.03718)[C]//Computer Vision–ECCV 2016 Workshops. Springer International Publishing, 2016: 773-788.
+- Valipour S, Siam M, Jagersand M, et al. [Recurrent Fully Convolutional Networks for Video Segmentation](https://arxiv.org/abs/1606.00487)[C]//Applications of Computer Vision (WACV), 2017 IEEE Winter Conference on. IEEE, 2017: 29-36.
+- Wang H, Raiko T, Lensu L, et al. [Semi-supervised domain adaptation for weakly labeled semantic video object segmentation](https://arxiv.org/abs/1606.02280)[C]//Asian Conference on Computer Vision. Springer, Cham, 2016: 163-179.
+- Keuper M, Brox T. [Point-wise mutual information-based video segmentation with high temporal consistency](https://arxiv.org/abs/1606.02467)[C]//Computer Vision–ECCV 2016 Workshops. Springer International Publishing, 2016: 789-803.
+- Spina T V, Falcao A X. [Fomtrace: Interactive video segmentation by image graphs and fuzzy object models](https://arxiv.org/abs/1606.03369)[J]. arXiv preprint arXiv:1606.03369, 2016.
+- Jain S D, Grauman K. [Click carving: Segmenting objects in video with point clicks](https://arxiv.org/abs/1607.01115)[J]. arXiv preprint arXiv:1607.01115, 2016.
+- Betancourt A, Morerio P, Barakova E, et al. [Left/right hand segmentation in egocentric videos](https://arxiv.org/abs/1607.06264)[J]. Computer Vision and Image Understanding, 2017, 154: 73-81.
 - Mahasseni B, Todorovic S, Fern A. [Approximate policy iteration for budgeted semantic video segmentation](https://arxiv.org/abs/1607.07770)[J]. arXiv preprint arXiv:1607.07770, 2016.
 - Drayer B, Brox T. [Object detection, tracking, and motion segmentation for object-level video segmentation](https://arxiv.org/abs/1608.03066)[J]. arXiv preprint arXiv:1608.03066, 2016.
 - Shelhamer E, Rakelly K, Hoffman J, et al. [Clockwork convnets for video semantic segmentation](https://arxiv.org/abs/1608.03609)[C]//Computer Vision–ECCV 2016 Workshops. Springer International Publishing, 2016: 852-868.
