@@ -53,6 +53,7 @@ some way to extend the result:
 - Kuehne H, Gall J, Serre T. [An end-to-end generative framework for video segmentation and recognition](https://arxiv.org/abs/1509.01947)[C]//Applications of Computer Vision (WACV), 2016 IEEE Winter Conference on. IEEE, 2016: 1-8.
 - Tripathi S, Belongie S, Hwang Y, et al. [Semantic video segmentation: Exploring inference efficiency](https://arxiv.org/abs/1509.02441)[C]//SoC Design Conference (ISOCC), 2015 International. IEEE, 2015: 157-158.
 - Narayana M, Hanson A, Learned-Miller E. [Coherent motion segmentation in moving camera videos using optical flow orientations](https://arxiv.org/abs/1511.01619)[C]//Proceedings of the IEEE International Conference on Computer Vision. 2013: 1577-1584.
+- Taylor B, Karasev V, Soatto S. [Causal video object segmentation from persistence of occlusions](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Taylor_Causal_Video_Object_2015_CVPR_paper.pdf)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2015: 4268-4276.[[code](https://github.com/brianrtaylor/cvos)]
 
 ### 2016
 
@@ -83,6 +84,7 @@ some way to extend the result:
 - Khoreva A, Perazzi F, Benenson R, et al. [Learning video object segmentation from static images](https://arxiv.org/abs/1612.02646)[J]. arXiv preprint arXiv:1612.02646, 2016.
 - Zhang K, Li X, Liu Q. [Unsupervised Video Segmentation via Spatio-Temporally Nonlocal Appearance Learning](https://arxiv.org/abs/1612.08169)[J]. arXiv preprint arXiv:1612.08169, 2016.
 - Nilsson D, Sminchisescu C. [Semantic video segmentation by gated recurrent flow propagation](https://arxiv.org/abs/1612.08871)[J]. arXiv preprint arXiv:1612.08871, 2016.
+- Tsai Y H, Yang M H, Black M J. [Video segmentation via object flow](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Tsai_Video_Segmentation_via_CVPR_2016_paper.pdf)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2016: 3899-3908.[[code](https://github.com/wasidennis/ObjectFlow)]
 
 ### 2017
 
@@ -112,7 +114,7 @@ some way to extend the result:
 - Shivakumara P, Guru D S, Basavaraju H T. [Color and Gradient Features for Text Segmentation from Video Frames](https://arxiv.org/abs/1708.06561)[M]//Multimedia Processing, Communication and Computing Applications. Springer, New Delhi, 2013: 267-278.
 - Cheng J, Liu S, Tsai Y H, et al. [Learning to segment instances in videos with spatial propagation network](https://arxiv.org/abs/1709.04609)[J]. arXiv preprint arXiv:1709.04609, 2017.
 - Maninis K K, Caelles S, Chen Y, et al. [Video Object Segmentation Without Temporal Information](https://arxiv.org/abs/1709.06031)[J]. arXiv preprint arXiv:1709.06031, 2017.
-- Cheng J, Tsai Y H, Wang S, et al. [SegFlow: Joint Learning for Video Object Segmentation and Optical Flow](https://arxiv.org/abs/1709.06750)[C]//2017 IEEE International Conference on Computer Vision (ICCV). IEEE, 2017: 686-695.
+- Cheng J, Tsai Y H, Wang S, et al. [SegFlow: Joint Learning for Video Object Segmentation and Optical Flow](https://arxiv.org/abs/1709.06750)[C]//2017 IEEE International Conference on Computer Vision (ICCV). IEEE, 2017: 686-695.[[code](https://github.com/JingchunCheng/SegFlow)]
 - Hipiny I, Ujir H, Minoi J L, et al. [Unsupervised Segmentation of Action Segments in Egocentric Videos using Gaze](https://arxiv.org/pdf/1710.00187)[J]. arXiv preprint arXiv:1710.00187, 2017.
 - Ke W, Zhu Y, Yu L. [Automatic Streaming Segmentation of Stereo Video Using Bilateral Space](https://arxiv.org/abs/1710.03488)[J]. arXiv preprint arXiv:1710.03488, 2017.
 - Anjum N. [Evaluation of Availability of Initial-segments of Video Files in Device-to-Device (D2D) Network](https://arxiv.org/pdf/1710.07083)[J]. arXiv preprint arXiv:1710.07083, 2017.
@@ -123,3 +125,4 @@ some way to extend the result:
 
 - Benard A, Gygli M. [Interactive Video Object Segmentation in the Wild](https://arxiv.org/abs/1801.00269)[J]. arXiv preprint arXiv:1801.00269, 2017.
 - Li S, Seybold B, Vorobyov A, et al. [Instance Embedding Transfer to Unsupervised Video Object Segmentation](https://arxiv.org/abs/1801.00908)[J]. arXiv preprint arXiv:1801.00908, 2018.
+- Wang W, Shen J, Yang R, et al. Saliency-aware video object segmentation[J]. IEEE transactions on pattern analysis and machine intelligence, 2018, 40(1): 20-33.[[code](https://github.com/shenjianbing/Saliency-Aware-Video-Object-Segmentation-old-)]
