@@ -3,8 +3,7 @@
 collecting the papers about "video segmentation"
 
 some way to extend the result:
-
-[video segmentation](https://academic.microsoft.com/#/search?iq=@video%20segmentation@&q=video%20segmentation&filters=Y%3E%3D2000&from=0&sort=3) for Microsoft Academic Search
+- [video segmentation](https://academic.microsoft.com/#/search?iq=@video%20segmentation@&q=video%20segmentation&filters=Y%3E%3D2000&from=0&sort=3) for Microsoft Academic Search
 
 ### 2010
 
