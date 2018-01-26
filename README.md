@@ -32,4 +32,12 @@ collecting the papers about "video segmentation"
 
 ### 2017
 
+- Caelles S, Maninis K K, Pont-Tuset J, et al. [One-shot video object segmentation](http://openaccess.thecvf.com/content_cvpr_2017/papers/Caelles_One-Shot_Video_Object_CVPR_2017_paper.pdf)[C]//CVPR 2017. IEEE, 2017.
+- Anjum N. [Evaluation of Availability of Initial-segments of Video Files in Device-to-Device (D2D) Network](https://arxiv.org/pdf/1710.07083)[J]. arXiv preprint arXiv:1710.07083, 2017.
+- Park S J, Hong K S. [Video Semantic Object Segmentation by Self-Adaptation of DCNN](https://arxiv.org/pdf/1711.08180)[J]. arXiv preprint arXiv:1711.08180, 2017.
+- Hou R, Chen C, Shah M. [An End-to-end 3D Convolutional Neural Network for Action Detection and Segmentation in Videos](https://arxiv.org/abs/1712.01111)[J]. arXiv preprint arXiv:1712.01111, 2017.
+
 ### 2018
+
+- Benard A, Gygli M. [Interactive Video Object Segmentation in the Wild](https://arxiv.org/abs/1801.00269)[J]. arXiv preprint arXiv:1801.00269, 2017.
+- Li S, Seybold B, Vorobyov A, et al. [Instance Embedding Transfer to Unsupervised Video Object Segmentation](https://arxiv.org/abs/1801.00908)[J]. arXiv preprint arXiv:1801.00908, 2018.
