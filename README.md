@@ -39,7 +39,6 @@ some way to extend the result:
 ### 2014
 
 - Galasso F, Keuper M, Brox T, et al. [Spectral graph reduction for efficient image and streaming video segmentation](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Galasso_Spectral_Graph_Reduction_2014_CVPR_paper.pdf)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2014: 49-56.
-
 - Tripathi S, Hwang Y, Belongie S, et al. [Improving streaming video segmentation with early and mid-level visual processing](https://arxiv.org/abs/1402.3557)[C]//Applications of Computer Vision (WACV), 2014 IEEE Winter Conference on. IEEE, 2014: 477-484.
 - Mahdi W, Ardebilian M, Chen L. [Automatic video scene segmentation based on spatial-temporal clues and rhythm](https://arxiv.org/abs/1412.4470)[J]. Networking and Information Systems Journal, 2000, 3(1): 27-52.
 - Fragkiadaki K, Arbelaez P, Felsen P, et al. [Learning to segment moving objects in videos](https://arxiv.org/abs/1412.6504)[C]//Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2015: 4083-4090.
